@@ -1,0 +1,15 @@
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/bin/Debug/net6.0/MoreAdvancedTopicsCSharp
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/bin/Debug/net6.0/MoreAdvancedTopicsCSharp.deps.json
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/bin/Debug/net6.0/MoreAdvancedTopicsCSharp.runtimeconfig.json
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/bin/Debug/net6.0/MoreAdvancedTopicsCSharp.dll
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/bin/Debug/net6.0/MoreAdvancedTopicsCSharp.pdb
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/MoreAdvancedTopicsCSharp.csproj.AssemblyReference.cache
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/MoreAdvancedTopicsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/MoreAdvancedTopicsCSharp.AssemblyInfoInputs.cache
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/MoreAdvancedTopicsCSharp.AssemblyInfo.cs
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/MoreAdvancedTopicsCSharp.csproj.CoreCompileInputs.cache
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/MoreAdvancedTopicsCSharp.dll
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/refint/MoreAdvancedTopicsCSharp.dll
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/MoreAdvancedTopicsCSharp.pdb
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/MoreAdvancedTopicsCSharp.genruntimeconfig.cache
+/Users/johnathanburgess/Projects/MoreAdvancedTopicsCSharp/MoreAdvancedTopicsCSharp/obj/Debug/net6.0/ref/MoreAdvancedTopicsCSharp.dll
