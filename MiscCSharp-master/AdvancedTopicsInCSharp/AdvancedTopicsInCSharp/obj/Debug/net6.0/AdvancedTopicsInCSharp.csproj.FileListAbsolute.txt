@@ -1,0 +1,15 @@
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/bin/Debug/net6.0/AdvancedTopicsInCSharp
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/bin/Debug/net6.0/AdvancedTopicsInCSharp.deps.json
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/bin/Debug/net6.0/AdvancedTopicsInCSharp.runtimeconfig.json
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/bin/Debug/net6.0/AdvancedTopicsInCSharp.dll
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/bin/Debug/net6.0/AdvancedTopicsInCSharp.pdb
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/AdvancedTopicsInCSharp.csproj.AssemblyReference.cache
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/AdvancedTopicsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/AdvancedTopicsInCSharp.AssemblyInfoInputs.cache
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/AdvancedTopicsInCSharp.AssemblyInfo.cs
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/AdvancedTopicsInCSharp.csproj.CoreCompileInputs.cache
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/AdvancedTopicsInCSharp.dll
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/refint/AdvancedTopicsInCSharp.dll
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/AdvancedTopicsInCSharp.pdb
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/AdvancedTopicsInCSharp.genruntimeconfig.cache
+/Users/johnathanburgess/Projects/AdvancedTopicsInCSharp/AdvancedTopicsInCSharp/obj/Debug/net6.0/ref/AdvancedTopicsInCSharp.dll
