@@ -1,0 +1,32 @@
+{
+    "entries":[
+        {
+            "name":"Bobby Unser",
+            "wins":4
+        },
+        {
+            "name":"Johnny Rutherford",
+            "wins":4
+        },
+        {
+            "name":"Gordon Johncock",
+            "wins":2
+        },
+        {
+            "name":"Al Unser",
+            "wins":1
+        },
+        {
+            "name":"Jimmy Caruthers",
+            "wins":0
+        },
+        {
+            "name":"A.J. Foyt",
+            "wins":0
+        },
+        {
+            "name":"Mario Andretti",
+            "wins":0
+        }
+    ]
+}

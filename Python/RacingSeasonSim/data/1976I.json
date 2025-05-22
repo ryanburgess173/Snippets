@@ -1,0 +1,44 @@
+{
+    "entries":[
+        {
+            "name":"Gordon Johncock",
+            "wins":2
+        },
+        {
+            "name":"Johnny Rutherford",
+            "wins":3
+        },
+        {
+            "name":"Wally Dallenbach",
+            "wins":0
+        },
+        {
+            "name":"Al Unser",
+            "wins":3
+        },
+        {
+            "name":"Mike Mosley",
+            "wins":1
+        },
+        {
+            "name":"Bobby Unser",
+            "wins":2
+        },
+        {
+            "name":"A.J. Foyt",
+            "wins":2
+        },
+        {
+            "name":"Tom Sneva",
+            "wins":0
+        },
+        {
+            "name":"Mario Andretti",
+            "wins":0
+        },
+        {
+            "name":"Johnny Parsons",
+            "wins":0
+        }
+    ]
+}

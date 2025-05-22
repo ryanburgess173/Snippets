@@ -1,0 +1,17 @@
+@model List<FirstMVCApp.Models.DogViewModel>;
+
+@*
+    Created by Johnathan R. Burgess on February 8th, 2024
+*@
+@{
+
+}
+
+<h1>Hello world bro!</h1>
+<p>This is the index page of the HelloWorld controller</p>
+
+<ul>
+@foreach(var dog in Model){
+    <li>Name: @dog.Name, Age: @dog.Age</li>
+}
+</ul>

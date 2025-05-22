@@ -1,0 +1,84 @@
+{
+    "entries":[
+        {
+            "name":"Jimmie Johnson",
+            "wins":7
+        },
+        {
+            "name":"Carl Edwards",
+            "wins":9
+        },
+        {
+            "name":"Greg Biffle",
+            "wins":2
+        },
+        {
+            "name":"Kevin Harvick",
+            "wins":0
+        },
+        {
+            "name":"Clint Bowyer",
+            "wins":1
+        },
+        {
+            "name":"Jeff Burton",
+            "wins":2
+        },
+        {
+            "name":"Jeff Gordon",
+            "wins":0
+        },
+        {
+            "name":"Denny Hamlin",
+            "wins":1
+        },
+        {
+            "name":"Tony Stewart",
+            "wins":1
+        },
+        {
+            "name":"Kyle Busch",
+            "wins":8
+        },
+        {
+            "name":"Matt Kenseth",
+            "wins":0
+        },
+        {
+            "name":"Dale Earnhardt Jr.",
+            "wins":1
+        },
+        {
+            "name":"David Ragan",
+            "wins":0
+        },
+        {
+            "name":"Kasey Kahne",
+            "wins":2
+        },
+        {
+            "name":"Martin Truex Jr.",
+            "wins":0
+        },
+        {
+            "name":"Jamie McMurray",
+            "wins":0
+        },
+        {
+            "name":"Ryan Newman",
+            "wins":1
+        },
+        {
+            "name":"Kurt Busch",
+            "wins":1
+        },
+        {
+            "name":"Brian Vickers",
+            "wins":0
+        },
+        {
+            "name":"Casey Mears",
+            "wins":0
+        }
+    ]
+}

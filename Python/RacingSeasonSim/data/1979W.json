@@ -1,0 +1,64 @@
+{
+    "entries":[
+        {
+            "name":"Richard Petty",
+            "wins":5
+        },
+        {
+            "name":"Darrell Waltrip",
+            "wins":7
+        },
+        {
+            "name":"Bobby Allison",
+            "wins":5
+        },
+        {
+            "name":"Cale Yarborough",
+            "wins":4
+        },
+        {
+            "name":"Benny Parsons",
+            "wins":2
+        },
+        {
+            "name":"Joe Millikan",
+            "wins":0
+        },
+        {
+            "name":"Dale Earnhardt",
+            "wins":1
+        },
+        {
+            "name":"Richard Childress",
+            "wins":0
+        },
+        {
+            "name":"Ricky Rudd",
+            "wins":0
+        },
+        {
+            "name":"Terry Labonte",
+            "wins":0
+        },
+        {
+            "name":"Buddy Arrington",
+            "wins":0
+        },
+        {
+            "name":"D.K. Ulrich",
+            "wins":0
+        },
+        {
+            "name":"Buddy Baker",
+            "wins":3
+        },
+        {
+            "name":"Neil Bonnett",
+            "wins":3
+        },
+        {
+            "name":"David Pearson",
+            "wins":1
+        }
+    ]
+}

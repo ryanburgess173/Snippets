@@ -1,0 +1,48 @@
+{
+    "entries":[
+        {
+            "name":"Tom Sneva",
+            "wins":0
+        },
+        {
+            "name":"Al Unser",
+            "wins":3
+        },
+        {
+            "name":"Gordon Johncock",
+            "wins":2
+        },
+        {
+            "name":"Johnny Rutherford",
+            "wins":2
+        },
+        {
+            "name":"A.J. Foyt",
+            "wins":2
+        },
+        {
+            "name":"Wally Dallenbach",
+            "wins":0
+        },
+        {
+            "name":"Steve Krisiloff",
+            "wins":0
+        },
+        {
+            "name":"Danny Ongais",
+            "wins":5
+        },
+        {
+            "name":"Rick Mears",
+            "wins":3
+        },
+        {
+            "name":"Pancho Carter",
+            "wins":0
+        },
+        {
+            "name":"Mario Andretti",
+            "wins":1
+        }
+    ]
+}

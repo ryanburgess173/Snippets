@@ -1,0 +1,20 @@
+@page
+@model GrabDataModel
+@{
+
+}
+
+<div>
+    <h1>Grab Data From Sources</h1>
+    <form asp-controller="GrabData" asp-action="ParseRaceResults" method="get">
+        <label>Select Series:</label>
+        <!--<select>
+            @{
+                foreach(var item in @Model.Series){
+
+                }
+            }
+        </select>-->
+        <input type="submit"/>
+    </form>
+</div>
