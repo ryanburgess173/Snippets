@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Details</title>
+    </head>
+    <body>
+        <header>
+            <h1>Details:</h1>
+        </header>
+        <main>
+            <h2>{{ question.question_text }}</h2>
+            <ul>
+                {% for choice in question.choice_set_all %}
+                <li>{{ choice.choice_text }}</li>
+                {% endfor %}
+            </ul>
+        </main>
+    </body>
+</html>
