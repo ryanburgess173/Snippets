@@ -1,0 +1,72 @@
+{
+    "entries":[
+        {
+            "name":"Richard Petty",
+            "wins":13
+        },
+        {
+            "name":"Dave Marcis",
+            "wins":1
+        },
+        {
+            "name":"James Hylton",
+            "wins":0
+        },
+        {
+            "name":"Benny Parsons",
+            "wins":1
+        },
+        {
+            "name":"Richard Childress",
+            "wins":0
+        },
+        {
+            "name":"Cecil Gordon",
+            "wins":0
+        },
+        {
+            "name":"Cale Yarborough",
+            "wins":3
+        },
+        {
+            "name":"Darrell Waltrip",
+            "wins":2
+        },
+        {
+            "name":"Elmo Langley",
+            "wins":0
+        },
+        {
+            "name":"Buddy Baker",
+            "wins":4
+        },
+        {
+            "name":"Dick Brooks",
+            "wins":0
+        },
+        {
+            "name":"Walter Ballard",
+            "wins":0
+        },
+        {
+            "name":"Frank Warren",
+            "wins":0
+        },
+        {
+            "name":"Dave Sisco",
+            "wins":0
+        },
+        {
+            "name":"David Pearson",
+            "wins":3
+        },
+        {
+            "name":"Bruce Hill",
+            "wins":0
+        },
+        {
+            "name":"Bobby Allison",
+            "wins":3
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/bin/Debug/net7.0/Generics
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/bin/Debug/net7.0/Generics.deps.json
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/bin/Debug/net7.0/Generics.runtimeconfig.json
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/bin/Debug/net7.0/Generics.dll
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/bin/Debug/net7.0/Generics.pdb
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/Generics.csproj.AssemblyReference.cache
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/Generics.AssemblyInfoInputs.cache
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/Generics.AssemblyInfo.cs
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/Generics.csproj.CoreCompileInputs.cache
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/Generics.dll
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/refint/Generics.dll
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/Generics.pdb
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/Generics.genruntimeconfig.cache
+/Users/johnathanburgess/Projects/AdvancedCSharp/Generics/obj/Debug/net7.0/ref/Generics.dll

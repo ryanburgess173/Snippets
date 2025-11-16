@@ -1,0 +1,68 @@
+{
+    "entries":[
+        {
+            "name":"Rick Mears",
+            "wins":6
+        },
+        {
+            "name":"George Snider",
+            "wins":1
+        },
+        {
+            "name":"Bill Alsup",
+            "wins":0
+        },
+        {
+            "name":"Tom Bigelow",
+            "wins":0
+        },
+        {
+            "name":"Pancho Carter",
+            "wins":1
+        },
+        {
+            "name":"A.J. Foyt",
+            "wins":1
+        },
+        {
+            "name":"Gordon Johncock",
+            "wins":0
+        },
+        {
+            "name":"Mario Andretti",
+            "wins":0
+        },
+        {
+            "name":"Johnny Rutherford",
+            "wins":1
+        },
+        {
+            "name":"Rich Vogler",
+            "wins":1
+        },
+        {
+            "name":"Tony Bettenhausen Jr.",
+            "wins":0
+        },
+        {
+            "name":"Larry Rice",
+            "wins":1
+        },
+        {
+            "name":"Bobby Unser",
+            "wins":1
+        },
+        {
+            "name":"Gary Bettenhausen",
+            "wins":0
+        },
+        {
+            "name":"Tom Sneva",
+            "wins":2
+        },
+        {
+            "name":"Al Unser",
+            "wins":0
+        }
+    ]
+}

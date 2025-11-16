@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Concerts</title>
+    </head>
+    <body>
+        <header>
+            <h1>Tickets Still Available For The Following Shows:</h1>
+        </header>
+        <main>
+            <% if (concerts.length > 0) { %>
+                <% concerts.forEach(concert => { %>
+                    <hr />
+                    <h2><%= concert.concert_artist %></h2>
+                    <p><%= concert.concert_date %></p>
+                    <p><%= concert.concert_venue %></p>
+                    <p><b>Price: $<%= concert.concert_ticket_price %></b></p>
+                <% }) %>
+            <% } %>
+        </main>
+    </body>
+</html>

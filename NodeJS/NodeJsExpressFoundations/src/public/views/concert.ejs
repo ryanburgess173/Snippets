@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Concert</title>
+    </head>
+    <body>
+        <header>
+            <h1>Concert Info</h1>
+        </header>
+        <main>
+            <h2><%= concert_info.concert_artist %></h2>
+            <p><%= concert_info.concert_date %></p>
+            <p><%= concert_info.concert_venue %></p>
+            <p><b>Price: $<%= concert_info.concert_ticket_price %></b></p>
+            <br>
+            <div class="details-right details-right-purchasing">
+                <div class="concert-purchase-button">
+                    <a href="#"><button>Place Order</button></a>
+                </div>
+            </div>
+        </main>
+        <script type="text/javascript">
+            let addToCartButton = document.querySelector('.concert-purchase-button a button');
+            addToCartButton.addEventListener('click', (event) => {
+                event.preventDefault();
+                let body = JSON.stringify({
+                    'concert_id': '<%= concert_info.concert_id %>',
+                    'concert_artist': '<%= concert_info.concert_artist %>',
+                    'concert_price': '<%= concert_info.concert_price %>',
+                    'concert_currency': 'usd',
+                })
+                fetch('http://localhost:3000/save_to_cart', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type' : 'application/json'
+                    },
+                    body: body
+                });
+            }, false);
+        </script>
+    </body>
+</html>

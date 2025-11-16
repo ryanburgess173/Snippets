@@ -1,0 +1,52 @@
+{
+    "entries":[
+        {
+            "name":"Joe Leonard",
+            "wins":3
+        },
+        {
+            "name":"Billy Vukovich Jr.",
+            "wins":0
+        },
+        {
+            "name":"Roger McCluskey",
+            "wins":1
+        },
+        {
+            "name":"Al Unser",
+            "wins":0
+        },
+        {
+            "name":"Mark Donahue",
+            "wins":1
+        },
+        {
+            "name":"Mike Hiss",
+            "wins":0
+        },
+        {
+            "name":"Johnny Rutherford",
+            "wins":0
+        },
+        {
+            "name":"Bobby Unser",
+            "wins":4
+        },
+        {
+            "name":"Sammy Sessions",
+            "wins":0
+        },
+        {
+            "name":"Mike Mosley",
+            "wins":0
+        },
+        {
+            "name":"Mario Andretti",
+            "wins":0
+        },
+        {
+            "name":"Gary Bettenhausen",
+            "wins":1
+        }
+    ]
+}

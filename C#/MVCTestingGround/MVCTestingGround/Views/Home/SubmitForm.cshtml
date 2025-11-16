@@ -1,0 +1,40 @@
+﻿<h1>
+    Submission Form
+</h1>
+
+<form>
+    <input id="goButton" type="button" value="Go" onclick="FormSubmit()" />
+</form>
+
+@section Scripts {
+    <script>
+        function FormSubmit() {
+            var name = "johnathan.burgess";
+            var user = new Object();
+            user.name = name;
+            $.ajax({
+                type: "POST",
+                url: "https://localhost:7271/Home/Process",
+                data: { username: "johnathan.burgess" },
+                success: function (result) {
+                    HandleSuccess(result);
+                },
+                error: function (result) {
+                    console.log("--------ERRORRRR");
+                    console.log(result.status);
+                    alert(result.status);
+                }
+            });
+        }
+        function HandleSuccess(result) {
+            var resultMessage = JSON.stringify(result);
+            alert(resultMessage);
+            alert(typeof (resultMessage));
+            if (result === "processing") {
+                window.location.replace("https://localhost:7271/Home/ResultScreen");
+            } else {
+                window.location.replace("https://localhost:7271/Home/Privacy");
+            }
+        }
+    </script>
+}

@@ -1,0 +1,56 @@
+{
+    "entries":[
+        {
+            "name":"Roger McCluskey",
+            "wins":1
+        },
+        {
+            "name":"Wally Dallenbach",
+            "wins":3
+        },
+        {
+            "name":"Johnny Rutherford",
+            "wins":2
+        },
+        {
+            "name":"Billy Vukovich Jr.",
+            "wins":1
+        },
+        {
+            "name":"Mario Andretti",
+            "wins":1
+        },
+        {
+            "name":"Mike Mosley",
+            "wins":0
+        },
+        {
+            "name":"Gordon Johncock",
+            "wins":3
+        },
+        {
+            "name":"Gary Bettenhausen",
+            "wins":1
+        },
+        {
+            "name":"Lloyd Ruby",
+            "wins":0
+        },
+        {
+            "name":"A.J. Foyt",
+            "wins":2
+        },
+        {
+            "name":"Lee Kunzman",
+            "wins":0
+        },
+        {
+            "name":"Bobby Unser",
+            "wins":1
+        },
+        {
+            "name":"Al Unser",
+            "wins":1
+        }
+    ]
+}

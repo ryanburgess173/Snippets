@@ -1,0 +1,30 @@
+﻿@page "/fetchdata"
+@inject SampleDataAccess data
+
+<PageTitle>Employee Director</PageTitle>
+
+<h1>Employee Directory</h1>
+
+@if(employees != null)
+{
+        foreach(var e in employees)
+    {
+            <h3>@e.FirstName @e.LastName</h3>
+    }
+}
+else
+{
+        <h3>Loading...</h3>
+}
+
+@code{
+    List<EmployeeModel> employees;
+    /*protected override void OnInitialized()
+    {
+        employees = data.GetEmployees();
+    }*/
+    protected override async Task OnInitializedAsync()
+    {
+        employees = await data.GetEmployeesCache();
+    }
+}

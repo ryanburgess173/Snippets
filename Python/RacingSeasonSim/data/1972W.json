@@ -1,0 +1,84 @@
+{
+    "entries":[
+        {
+            "name":"Richard Petty",
+            "wins":8
+        },
+        {
+            "name":"Bobby Allison",
+            "wins":10
+        },
+        {
+            "name":"James Hylton",
+            "wins":1
+        },
+        {
+            "name":"Cecil Gordon",
+            "wins":0
+        },
+        {
+            "name":"Walter Ballard",
+            "wins":0
+        },
+        {
+            "name":"Benny Parsons",
+            "wins":0
+        },
+        {
+            "name":"Elmo Langley",
+            "wins":0
+        },
+        {
+            "name":"Dean Dalton",
+            "wins":0
+        },
+        {
+            "name":"John Sears",
+            "wins":0
+        },
+        {
+            "name":"Ben Arnold",
+            "wins":0
+        },
+        {
+            "name":"Frank Warren",
+            "wins":0
+        },
+        {
+            "name":"Jabe Thomas",
+            "wins":0
+        },
+        {
+            "name":"Bill Champion",
+            "wins":0
+        },
+        {
+            "name":"Raymond Williams",
+            "wins":0
+        },
+        {
+            "name":"Charlie Roberts",
+            "wins":0
+        },
+        {
+            "name":"Dave Marcis",
+            "wins":0
+        },
+        {
+            "name":"Henley Gray",
+            "wins":0
+        },
+        {
+            "name":"J.D. McDuffie",
+            "wins":0
+        },
+        {
+            "name":"Bobby Isaac",
+            "wins":1
+        },
+        {
+            "name":"David Pearson",
+            "wins":6
+        }
+    ]
+}

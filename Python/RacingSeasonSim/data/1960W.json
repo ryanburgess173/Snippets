@@ -1,0 +1,68 @@
+{
+    "entries":[
+        {
+            "name":"Rex White",
+            "wins":6
+        },
+        {
+            "name":"Richard Petty",
+            "wins":3
+        },
+        {
+            "name":"Bobby Johns",
+            "wins":1
+        },
+        {
+            "name":"Buck Baker",
+            "wins":2
+        },
+        {
+            "name":"Ned Jarrett",
+            "wins":5
+        },
+        {
+            "name":"Lee Petty",
+            "wins":5
+        },
+        {
+            "name":"Junior Johnson",
+            "wins":3
+        },
+        {
+            "name":"Emanuel Zervakis",
+            "wins":0
+        },
+        {
+            "name":"Jim Paschal",
+            "wins":0
+        },
+        {
+            "name":"Banjo Matthews",
+            "wins":0
+        },
+        {
+            "name":"Johnny Beauchamp",
+            "wins":1
+        },
+        {
+            "name":"Joe Lee Johnson",
+            "wins":1
+        },
+        {
+            "name":"Jack Smith",
+            "wins":3
+        },
+        {
+            "name":"Joe Weatherly",
+            "wins":3
+        },
+        {
+            "name":"Speedy Thompson",
+            "wins":2
+        },
+        {
+            "name":"Fireball Roberts",
+            "wins":2
+        }
+    ]
+}

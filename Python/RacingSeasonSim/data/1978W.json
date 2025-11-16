@@ -1,0 +1,60 @@
+{
+    "entries":[
+        {
+            "name":"Cale Yarborough",
+            "wins":10
+        },
+        {
+            "name":"Bobby Allison",
+            "wins":5
+        },
+        {
+            "name":"Darrell Waltrip",
+            "wins":6
+        },
+        {
+            "name":"Benny Parsons",
+            "wins":3
+        },
+        {
+            "name":"Dave Marcis",
+            "wins":0
+        },
+        {
+            "name":"Richard Petty",
+            "wins":0
+        },
+        {
+            "name":"Lennie Pond",
+            "wins":1
+        },
+        {
+            "name":"Dick Brooks",
+            "wins":0
+        },
+        {
+            "name":"Buddy Arrington",
+            "wins":0
+        },
+        {
+            "name":"Richard Childress",
+            "wins":0
+        },
+        {
+            "name":"J.D. McDuffie",
+            "wins":0
+        },
+        {
+            "name":"Neil Bonnett",
+            "wins":0
+        },
+        {
+            "name":"David Pearson",
+            "wins":4
+        },
+        {
+            "name":"Donnie Allison",
+            "wins":1
+        }
+    ]
+}

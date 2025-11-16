@@ -1,0 +1,68 @@
+{
+    "entries":[
+        {
+            "name":"Ned Jarrett",
+            "wins":1
+        },
+        {
+            "name":"Rex White",
+            "wins":7
+        },
+        {
+            "name":"Emanuel Zervakis",
+            "wins":2
+        },
+        {
+            "name":"Joe Weatherly",
+            "wins":9
+        },
+        {
+            "name":"Fireball Roberts",
+            "wins":2
+        },
+        {
+            "name":"Junior Johnson",
+            "wins":7
+        },
+        {
+            "name":"Jack Smith",
+            "wins":2
+        },
+        {
+            "name":"Richard Petty",
+            "wins":2
+        },
+        {
+            "name":"Jim Paschal",
+            "wins":2
+        },
+        {
+            "name":"Buck Baker",
+            "wins":1
+        },
+        {
+            "name":"David Pearson",
+            "wins":3
+        },
+        {
+            "name":"Nelson Stacy",
+            "wins":1
+        },
+        {
+            "name":"Marvin Panch",
+            "wins":1
+        },
+        {
+            "name":"Fred Lorenzen",
+            "wins":3
+        },
+        {
+            "name":"Cotton Owens",
+            "wins":4
+        },
+        {
+            "name":"Bob Burdick",
+            "wins":1
+        }
+    ]
+}

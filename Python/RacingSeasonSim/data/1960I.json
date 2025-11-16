@@ -1,0 +1,64 @@
+{
+    "entries":[
+        {
+            "name":"A.J. Foyt",
+            "wins":4
+        },
+        {
+            "name":"Rodger Ward",
+            "wins":2
+        },
+        {
+            "name":"Don Branson",
+            "wins":0
+        },
+        {
+            "name":"Jim Rathmann",
+            "wins":1
+        },
+        {
+            "name":"Tony Bettenhausen",
+            "wins":0
+        },
+        {
+            "name":"Gene Force",
+            "wins":0
+        },
+        {
+            "name":"Johnny Thomson",
+            "wins":0
+        },
+        {
+            "name":"Len Sutton",
+            "wins":1
+        },
+        {
+            "name":"Lloyd Ruby",
+            "wins":0
+        },
+        {
+            "name":"Jim Packard",
+            "wins":1
+        },
+        {
+            "name":"Paul Goldsmith",
+            "wins":0
+        },
+        {
+            "name":"Eddie Sachs",
+            "wins":1
+        },
+        {
+            "name":"Wayne Weiler",
+            "wins":0
+        },
+        {
+            "name":"Bobby Grim",
+            "wins":1
+        },
+        {
+            "name":"Jim Hurtubise",
+            "wins":1
+        }
+    ]
+}
