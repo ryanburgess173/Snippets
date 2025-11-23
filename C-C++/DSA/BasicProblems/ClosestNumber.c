@@ -34,16 +34,24 @@ int main() {
     printf("m = ");
     scanf("%d", &m);
 
-    int up = GetAbsoluteValue(DivisibleByMUp(n, m) - n);
-    int down = GetAbsoluteValue(DivisibleByMDown(n, m) - n);
+    int mUp = DivisibleByMUp(n, m);
+    int mDown = DivisibleByMDown(n, m);
+    int upDiff = GetAbsoluteValue(mUp - n);
+    int downDiff = GetAbsoluteValue(mDown - n);
 
-    if(up == down){
-        printf()
+    if(upDiff == downDiff){
+        if(GetAbsoluteValue(mUp) > GetAbsoluteValue(mDown)){
+            printf("%d\n", mUp);
+        }
+        if(GetAbsoluteValue(mUp) < GetAbsoluteValue(mDown)){
+            printf("%d\n", mDown);
+        }
+        return 0;
     }
-    if(up > down){
-        printf("%d\n", DivisibleByMDown);
+    if(upDiff > downDiff){
+        printf("%d\n", mDown);
     }else{
-        printf("%d\n", DivisibleByMUp);
+        printf("%d\n", mUp);
     }
 
     return 0;
