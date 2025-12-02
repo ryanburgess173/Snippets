@@ -1,5 +1,6 @@
 import Component from "./models/Component.js";
 let myGamePiece;
+let mySecondGamePiece;
 var myGameArea = {
     canvas: document.createElement("canvas"),
     interval: 0,
@@ -22,12 +23,15 @@ var myGameArea = {
 function startGame() {
     console.log("startGame called");
     myGameArea.start();
-    myGamePiece = new Component(30, 30, "green", 10, 120, myGameArea);
+    myGamePiece = new Component(30, 30, "green", 10, 1150, myGameArea);
+    mySecondGamePiece = new Component(10, 50, "silver", 1100, 1170, myGameArea);
 }
 function updateGameArea() {
     myGameArea.clear();
     myGamePiece.x += 1;
+    mySecondGamePiece.y -= 3;
     myGamePiece.update();
+    mySecondGamePiece.update();
 }
 // Auto-start the game when the script loads
 console.log("Script loaded, starting game...");

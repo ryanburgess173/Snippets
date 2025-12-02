@@ -2,6 +2,7 @@ import Component from "./models/Component.js";
 import GameArea from "./types/GameArea.js";
 
 let myGamePiece: Component;
+let mySecondGamePiece: Component;
 
 var myGameArea: GameArea = {
   canvas: document.createElement("canvas"),
@@ -29,13 +30,16 @@ var myGameArea: GameArea = {
 function startGame(): void {
   console.log("startGame called");
   myGameArea.start();
-  myGamePiece = new Component(30, 30, "green", 10, 120, myGameArea);
+  myGamePiece = new Component(30, 30, "green", 10, 1150, myGameArea);
+  mySecondGamePiece = new Component(10, 50, "silver", 1100, 1170, myGameArea);
 }
 
 function updateGameArea(): void {
   myGameArea.clear();
   myGamePiece.x += 1;
+  mySecondGamePiece.y -= 3;
   myGamePiece.update();
+  mySecondGamePiece.update();
 }
 
 // Auto-start the game when the script loads
