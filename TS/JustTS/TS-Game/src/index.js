@@ -6,7 +6,7 @@ var myGameArea = {
     interval: 0,
     start: function () {
         this.canvas.width = 1600;
-        this.canvas.height = 1200;
+        this.canvas.height = 1100;
         this.canvas.style.border = "1px solid black";
         this.context = this.canvas.getContext("2d");
         document.body.insertBefore(this.canvas, document.body.childNodes[0] || null);
@@ -23,14 +23,26 @@ var myGameArea = {
 function startGame() {
     console.log("startGame called");
     myGameArea.start();
-    myGamePiece = new Component(30, 30, "green", 10, 1150, myGameArea);
-    mySecondGamePiece = new Component(10, 50, "silver", 1100, 1170, myGameArea);
+    myGamePiece = new Component(30, 30, "green", 10, 1050, myGameArea);
+    mySecondGamePiece = new Component(10, 50, "silver", 1100, 1070, myGameArea);
+    document
+        .getElementById("up")
+        ?.addEventListener("click", () => myGamePiece.moveUp());
+    document
+        .getElementById("down")
+        ?.addEventListener("click", () => myGamePiece.moveDown());
+    document
+        .getElementById("left")
+        ?.addEventListener("click", () => myGamePiece.moveLeft());
+    document
+        .getElementById("right")
+        ?.addEventListener("click", () => myGamePiece.moveRight());
 }
 function updateGameArea() {
     myGameArea.clear();
-    myGamePiece.x += 1;
-    mySecondGamePiece.y -= 3;
+    myGamePiece.newPos();
     myGamePiece.update();
+    mySecondGamePiece.y -= 3;
     mySecondGamePiece.update();
 }
 // Auto-start the game when the script loads
