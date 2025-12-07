@@ -5,8 +5,8 @@ var myGameArea = {
     canvas: document.createElement("canvas"),
     interval: 0,
     start: function () {
-        this.canvas.width = 1600;
-        this.canvas.height = 1100;
+        this.canvas.width = 800;
+        this.canvas.height = 500;
         this.canvas.style.border = "1px solid black";
         this.context = this.canvas.getContext("2d");
         document.body.insertBefore(this.canvas, document.body.childNodes[0] || null);
@@ -23,20 +23,32 @@ var myGameArea = {
 function startGame() {
     console.log("startGame called");
     myGameArea.start();
-    myGamePiece = new Component(30, 30, "green", 10, 1050, myGameArea);
-    mySecondGamePiece = new Component(10, 50, "silver", 1100, 1070, myGameArea);
+    myGamePiece = new Component(30, 30, "green", 10, 450, myGameArea);
+    mySecondGamePiece = new Component(10, 50, "silver", 300, 450, myGameArea);
     document
         .getElementById("up")
-        ?.addEventListener("click", () => myGamePiece.moveUp());
+        ?.addEventListener("keydown", () => myGamePiece.moveUp());
+    document
+        .getElementById("up")
+        ?.addEventListener("keyup", () => myGamePiece.stopMove());
     document
         .getElementById("down")
-        ?.addEventListener("click", () => myGamePiece.moveDown());
+        ?.addEventListener("keydown", () => myGamePiece.moveDown());
+    document
+        .getElementById("down")
+        ?.addEventListener("keyup", () => myGamePiece.stopMove());
     document
         .getElementById("left")
-        ?.addEventListener("click", () => myGamePiece.moveLeft());
+        ?.addEventListener("keydown", () => myGamePiece.moveLeft());
+    document
+        .getElementById("left")
+        ?.addEventListener("keyup", () => myGamePiece.stopMove());
     document
         .getElementById("right")
-        ?.addEventListener("click", () => myGamePiece.moveRight());
+        ?.addEventListener("keydown", () => myGamePiece.moveRight());
+    document
+        .getElementById("right")
+        ?.addEventListener("keyup", () => myGamePiece.stopMove());
 }
 function updateGameArea() {
     myGameArea.clear();

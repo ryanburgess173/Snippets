@@ -42,6 +42,14 @@ class Component {
     this.y += this.speedY;
   }
 
+  stopMove(): void {
+    console.log("stopMove() called");
+    this.speedX = 0;
+    this.speedY = 0;
+    console.log(`Speed X: ${this.speedX}`);
+    console.log(`Speed Y: ${this.speedY}`);
+  }
+
   moveUp(): void {
     console.log("moveUp() called");
     this.speedY -= 1;
