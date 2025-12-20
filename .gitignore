@@ -33,3 +33,12 @@ C-C++/**/Example[0-9][0-9]
 # Metal C++ library
 C-C++/Graphics/MetalMac/MetalTutorial/metal-cpp/
 
+# TypeScript transpiled JS files
+TS/JustTS/TS-Game/src/**/*.js
+TS/JustTS/TS-Game/src/**/*.js.map
+TS/JustTS/TS-Game/src/**/*.d.ts.map
+TS/JustTS/TS-Game/src/**/*.d.ts
+TS/JustTS/TS-Game/src/index.js
+TS/JustTS/TS-Game/src/index.js.map
+TS/JustTS/TS-Game/src/index.d.ts
+TS/JustTS/TS-Game/src/index.d.ts.map
