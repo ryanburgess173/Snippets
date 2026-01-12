@@ -1,8 +1,12 @@
 const posts = [
-    {id: 1, title: 'Post One'},
-    {id: 2, title: 'Post Two'}
+  { id: 1, title: "Post One" },
+  { id: 2, title: "Post Two" },
 ];
 
 export const getPosts = () => {
-    return posts;
-}
+  return posts;
+};
+
+export const getPostsLength = () => {
+  return posts.length;
+};
