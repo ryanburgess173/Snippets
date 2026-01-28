@@ -7,3 +7,5 @@ myEmitter.on("greet", (): void => {
 });
 
 myEmitter.emit("greet");
+
+export {};
