@@ -8,3 +8,5 @@ emitter.once("connection", (): void => {
 
 emitter.emit("connection"); // This will trigger the listener
 emitter.emit("connection"); // This won't trigger the listener again
+
+export {};
